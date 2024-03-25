@@ -1,12 +1,12 @@
 ---
-title:  "One Year at CBS"
+title: "One Year at CBS"
 layout: post
 categories: mba
 ---
 
 I am now one year into the MBA program at Columbia Business School. It's been a great experience meeting interesting people, developing new skills, and exploring career options.
 
-As the first year comes to an end, I thought it would be interesting to share a few surprising things I learned while at school.
+As the first year comes to an end, I thought it would be interesting to share some learnings from my first year.
 
 ## Advice for Next Year's Class
 
