@@ -7,7 +7,7 @@ categories:
   - diligence
 ---
 
-![Software Due Diligence Panel at Wharton's ETA Conference](https://github.com/sourabhmarathe/sourabhmarathe.github.io/blob/master/assets/images/wharton-software-panel.jpg?raw=true)
+![Software Due Diligence Panel at Wharton's ETA Conference](https://github.com/sourabhmarathe/sourabhmarathe.github.io/blob/main/assets/images/wharton-software-panel.jpg?raw=true)
 
 
 ## Diligencing Software
