@@ -6,7 +6,7 @@ layout: page
 
 ## Welcome
 
-I use this blog to provide professional updates, write about my interests (currently: software and search funds) and share content that informs my understanding of how the world works.
+I use this blog to provide professional updates, write about my interests (currently: software and search funds) and share content that I find interesting.
 
 ## Biography
 
