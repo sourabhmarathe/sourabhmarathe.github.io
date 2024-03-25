@@ -12,8 +12,6 @@ As the first year comes to an end, I thought it would be interesting to share so
 
 First, as soon as possible, set a goal for what you want to do over the summer and prioritize achieving that goal. Until every option is slammed shut, pursue the goal.
 
-Second, the trips and parties are not that important. While it's widely known that trips and parties play a large role in the culture of business school, you can basically ignore that stuff.
-
 This might be the most important point! People want to talk with you and hear what you are thinking about. Articulate a message with structure and concision and go find the right people to talk to.
 
 Lastly, develop comfort with asking for things. Ask for 10% off on coffee. Ask for a resume review. Ask people if they'd like to grab a meal. And ask even when it feels a bit uncomfortable.
