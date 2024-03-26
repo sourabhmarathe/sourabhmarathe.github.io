@@ -8,7 +8,7 @@ I am now one year into the MBA program at Columbia Business School. It's been a 
 
 As the first year comes to an end, I thought it would be interesting to share some learnings from my first year.
 
-## Advice for Next Year's Class
+### Advice I Would Have Given to Me
 
 First, as soon as possible, set a goal for what you want to do over the summer and prioritize achieving that goal. Until every option is slammed shut, pursue the goal.
 
