@@ -8,8 +8,6 @@ One of Samo Burja's most interesting articles is about the idea of the adoption 
 
 Burja points out many examples of social technology such as norms in medicine, law and ritual. Furthermore, Burja points out how social and material technology interact; that is by lowering the costs of coordination, social technology enables the production of material technology.
 
-## In development
-
 We see this pattern play out in the world of software businesses as well. A great example of this divide is in attempts to measure a software engineering team's performance in terms of production. Bad metrics include lines of code, and better ones might involve a point system related to broader application or feature level development goals.
 
 Measuring material production only captures part of the story. Because, at its essence, software is about abstracting arbitrary rules into human-readable information, development requires systematic coordination to occur smoothly (i.e., adoption of social technologies). In turn, teams with a healthy engineering culture will perform better on social technology measures: metrics around the ability of team members to step into new roles and knowledge transfer all indicate the ability of the team to meet its business function.
