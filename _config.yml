@@ -36,3 +36,6 @@ comments:
 
 plugins:
   - jekyll-feed
+
+# Pagination
+paginate: 5
