@@ -4,6 +4,11 @@ permalink: "/blogroll/"
 layout: page
 ---
 
-This page is a running list of my favorite blogs.
+This page is a running list of my favorite blogs, news sites, etc.
+
+# Blogs
 
 [Marginal Revolution](marginalrevolution.com)
+[Stratechary](https://stratechery.com/)
+
+# News
