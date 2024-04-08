@@ -10,5 +10,6 @@ This page is a running list of my favorite blogs, news sites, etc.
 
 [Marginal Revolution](marginalrevolution.com)
 [Stratechary](https://stratechery.com/)
+[Palladium](https://www.palladiummag.com/)
 
 # News
