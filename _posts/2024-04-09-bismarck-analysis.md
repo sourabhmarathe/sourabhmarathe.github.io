@@ -1,5 +1,5 @@
 ---
-title: "Blogroll: Palladium"
+title: "Blogroll: Bismarck Analysis"
 layout: post
 categories: meta
 ---
