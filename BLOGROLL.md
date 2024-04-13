@@ -13,4 +13,6 @@ This page is a running list of my favorite blogs, news sites, etc.
 [Palladium](https://www.palladiummag.com/)
 [Bismarck Analysis ($)](https://www.bismarckanalysis.com/#/)
 
-# News
+# Books
+
+[The Mom Test](https://www.amazon.com/Mom-Test-customers-business-everyone/dp/1492180742)
