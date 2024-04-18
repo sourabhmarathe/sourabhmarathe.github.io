@@ -16,3 +16,4 @@ This page is a running list of my favorite blogs, news sites, etc.
 # Books
 
 [The Mom Test](https://www.amazon.com/Mom-Test-customers-business-everyone/dp/1492180742)
+[The Sovereign Individual](https://a.co/d/8m7ldpH)
